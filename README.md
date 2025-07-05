@@ -1,10 +1,13 @@
-# ⚡ N8N Workflow Collection & Documentation
 
-A professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system that provides instant search, analysis, and browsing capabilities.
+# 🚀 OneStop N8N Workflows & Documentation (by Harsha Parisha)
 
-## 🚀 **NEW: High-Performance Documentation System**
+A uniquely curated and professionally organized collection of **2,053 n8n workflows** with a lightning-fast documentation system, rebranded and maintained by **Harsha Parisha**. Enjoy instant search, analysis, and browsing capabilities with a personal touch.
 
-**Experience 100x performance improvement over traditional documentation!**
+
+---
+
+**✨ Experience 100x performance improvement over traditional documentation! ✨**
+
 
 ### Quick Start - Fast Documentation System
 ```bash
@@ -18,6 +21,14 @@ python run.py
 http://localhost:8000
 ```
 
+---
+
+**Branding:**
+- Maintained by: Harsha Parisha
+- Repo: https://github.com/HarshaParisha/onestop-n8n-workflows
+- Original system: Forked and customized for enhanced usability and personal workflow needs
+
+
 **Features:**
 - ⚡ **Sub-100ms response times** with SQLite FTS5 search
 - 🔍 **Instant full-text search** with advanced filtering
@@ -29,6 +40,8 @@ http://localhost:8000
 - 📄 **On-demand JSON viewing** and download
 - 🔗 **Mermaid diagram generation** for workflow visualization
 - 🔄 **Real-time workflow naming** with intelligent formatting
+
+---
 
 ### Performance Comparison
 
@@ -374,7 +387,8 @@ Our system automatically converts technical filenames to user-friendly names:
 
 ---
 
-## 🤝 Contributing
+
+## 🤝 Contributing & Credits
 
 ### Adding New Workflows
 1. **Export workflow** as JSON from n8n
@@ -389,6 +403,14 @@ Our system automatically converts technical filenames to user-friendly names:
 - ✅ Follow naming convention for consistency
 - ✅ Verify compatibility with recent n8n versions
 - ✅ Include meaningful description or comments
+
+---
+
+**Credits:**
+- Original n8n workflow system by the open-source community
+- Customizations, curation, and ongoing maintenance by Harsha Parisha
+
+---
 
 ---
 

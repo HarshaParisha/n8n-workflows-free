@@ -1,5 +1,5 @@
 {
-  "name": "n8n-workflow-docs",
+  "name": "onestop-n8n-workflows",
   "version": "1.0.0",
   "description": "N8N Workflow Documentation System - Node.js Implementation",
   "main": "src/server.js",
@@ -24,6 +24,6 @@
     "nodemon": "^3.0.2"
   },
   "keywords": ["n8n", "workflows", "documentation", "automation"],
-  "author": "",
+  "author": "Harsha Parisha <your-email@example.com>",
   "license": "MIT"
 } 
